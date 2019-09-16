@@ -85,3 +85,54 @@
         }
 
 }
+
+@media(min-width: 1024px){
+    main {
+        align-items: center;
+    }
+    
+    body{
+        width: 100%;
+        margin: auto;
+    }
+
+    #b {
+        background-color: rgb(15, 224, 15);
+       
+       }
+       
+       #c {
+           background-color: rgb(35, 9, 94);
+       
+       }
+       
+       #d {
+           background-color: rgb(126, 10, 97);
+       
+       }
+       
+       #e {
+        background-color: rgb(201, 223, 8);
+       }
+       
+       #f {
+           background-color: rgb(91, 143, 179);
+          }
+       
+       #g {
+        background-color: rgb(76, 52, 102);
+       }
+       
+       #h {
+           background-color: rgb(126, 118, 17);
+          }
+       
+        footer{
+            background-color: rgb(226, 177, 238);
+        }
+
+        header {
+            background-color: rgb(167, 61, 61);
+        }
+
+}
